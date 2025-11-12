@@ -7,7 +7,7 @@ The project helps visualize key metrics like claim status, policy activity, and 
 ---
 
 ## 🔗 Dashboard Link  
-[👉 Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=3dd3b03f-1888-4f21-ac74-3feb66c581ad&autoAuth=true&ctid=5e770d14-5ca7-46e0-9e00-2cdf210bd1ca)
+[👉 Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTk1NmJjMGYtODA1NS00NDQyLWFjMjYtZmU5MjgxNGZlZWUzIiwidCI6IjVlNzcwZDE0LTVjYTctNDZlMC05ZTAwLTJjZGYyMTBiZDFjYSJ9)
 
 ---
 
